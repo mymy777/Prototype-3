@@ -497,7 +497,11 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 122
   m_CollisionDetection: 0
+<<<<<<< Updated upstream
 --- !u!114 &1114523979
+=======
+--- !u!114 &1114523977
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -509,6 +513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b34b8dd2ebb84a13b801709cb15d803, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   jumpForce: 10
   gravityModifier: 2
   isOnGround: 1
@@ -557,6 +562,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &2014335011
 GameObject:
   m_ObjectHideFlags: 0
